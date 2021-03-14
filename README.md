@@ -5,8 +5,11 @@ Check out my GUI demo!!! https://www.youtube.com/watch?v=I6yYPYTiE7c
 
 ## Installation
 `pip install numpy`
+
 `pip install tkinter` or `pip install pygame` if you wish to run the GUI
+
 Clone this repository
+
 You are all set!
 
 ## Usage
