@@ -3,12 +3,14 @@ A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds (Mo
 
 Check out my GUI demo!!! https://www.youtube.com/watch?v=I6yYPYTiE7c
 
+Due to large file restriction, you may NOW download the `.exe` version of the GUI (everything built in) in my <u>[google drive](https://drive.google.com/file/d/14FB2TLbyGtMjwN09txXWIW6_bbxqGOOw/view?usp=sharing) </u>(Anti-virus scan passed)
+
 ## Installation
-`pip install numpy`
+`pip install numpy` (required)
 
-`pip install tkinter` or `pip install pygame` if you wish to run the GUI
+`pip install tkinter` or `pip install pygame` (optional: if you wish to run the GUI)
 
-Clone this repository
+Clone this repository (required)
 
 You are all set!
 
