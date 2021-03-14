@@ -17,6 +17,19 @@ On the [hardest Sudoku in the world](https://www.telegraph.co.uk/news/science/sc
 
 The performance is below:
 
-![image](https://user-images.githubusercontent.com/76851428/111085672-981efc00-84d5-11eb-929b-27f7bf0febab.png)
+```
+Solver:
+[[8 1 2 7 5 3 6 4 9]
+ [9 4 3 6 8 2 1 7 5]
+ [6 7 5 4 9 1 2 8 3]
+ [1 5 4 2 3 7 8 9 6]
+ [3 6 9 8 4 5 7 2 1]
+ [2 8 7 1 6 9 5 3 4]
+ [5 2 1 9 7 4 3 6 8]
+ [4 3 8 5 2 6 9 1 7]
+ [7 9 6 3 1 8 4 5 2]]
 
+Time consumed: 0.87877
+Attempts: 32
+```
 
