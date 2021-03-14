@@ -17,7 +17,7 @@ You are all set!
 ## Usage
 Run ```Sudoku_solver.py``` or ```Sudoku_gui_tkinter.py```
 
-If you want to use customized board, either add a line to ```puzzle1.txt``` following the nested list format, or add a line to ```User_data.txt``` and then use ```Sudoku_converter.py``` to convert that puzzle into the `puzzle1.txt`.
+If you want to use a customized board, either add a line to ```puzzle1.txt``` following the nested list format, or add a line to ```User_data.txt``` and then use ```Sudoku_converter.py``` to convert that puzzle into the `puzzle1.txt`.
 
 ## Performance
 On the [hardest Sudoku in the world](https://www.telegraph.co.uk/news/science/science-news/9359579/Worlds-hardest-sudoku-can-you-crack-it.html):
