@@ -1,10 +1,13 @@
 # Sudoku-Solver
-A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds(Most of the puzzles are solved in less than 0.5 sec).
+A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds (Most of the puzzles are solved within 0.5 sec regardless of the difficulty).
 
 Check out my GUI demo!!! https://www.youtube.com/watch?v=I6yYPYTiE7c
 
 ## Installation
+`pip install numpy`
+`pip install tkinter` or `pip install pygame` if you wish to run the GUI
 Clone this repository
+You are all set!
 
 ## Usage
 Run ```Sudoku_solver.py``` or ```Sudoku_gui_tkinter.py```
