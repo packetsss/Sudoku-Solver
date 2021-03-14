@@ -1,5 +1,5 @@
 # Sudoku-Solver
-A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds.
+A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds(Most of the puzzles are solved less than 0.5 sec).
 
 Check out my GUI demo!!! https://www.youtube.com/watch?v=I6yYPYTiE7c
 
