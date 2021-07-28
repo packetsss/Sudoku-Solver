@@ -3,7 +3,6 @@ import ast
 
 
 class interface:
-
     def __init__(self, solution=False, random=False):
         self.shuffle = random
         self.solution = solution
