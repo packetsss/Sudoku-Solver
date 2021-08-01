@@ -28,7 +28,7 @@ Recursive implanted with Init, Unique and Elimination method:
 Time consumed: 0.36783
 Attempts: 32
 """
-
+    
 import Sudoku_interface as ss
 import numpy as np
 from timeit import default_timer as timer
