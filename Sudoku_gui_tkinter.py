@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 from tkinter import *
 from Sudoku_interface import interface
 from Sudoku_solver import solve

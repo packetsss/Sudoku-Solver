@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 
 d = {}
 with open("src\\User_data.txt", "r") as f:
