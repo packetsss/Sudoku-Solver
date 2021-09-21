@@ -8,6 +8,16 @@ Check out my GUI demo video on Youtube: [Click me!](https://www.youtube.com/watc
 
 Due to large file restriction, you may NOW download the `.exe` version of the GUI (everything built in) in my <u>[google drive](https://drive.google.com/file/d/14FB2TLbyGtMjwN09txXWIW6_bbxqGOOw/view?usp=sharing) </u>(Anti-virus scan passed)
 
+## Quick Start
+```
+# with gui
+python Sudoku_gui_tkinter.py
+
+# without gui (in terminal)
+python Sudoku_solver.py
+```
+If you want to use a customized board, either add a line to ```puzzle1.txt``` following the nested list format, or add a line to ```User_data.txt``` and then use ```Sudoku_converter.py``` to convert that puzzle into the `puzzle1.txt`.
+
 ## Installation
 `pip install numpy` (required)
 
@@ -16,11 +26,6 @@ Due to large file restriction, you may NOW download the `.exe` version of the GU
 Clone this repository (required)
 
 You are all set!
-
-## Usage
-Run ```Sudoku_solver.py``` or ```Sudoku_gui_tkinter.py```
-
-If you want to use a customized board, either add a line to ```puzzle1.txt``` following the nested list format, or add a line to ```User_data.txt``` and then use ```Sudoku_converter.py``` to convert that puzzle into the `puzzle1.txt`.
 
 ## Performance
 On the [hardest Sudoku in the world](https://www.telegraph.co.uk/news/science/science-news/9359579/Worlds-hardest-sudoku-can-you-crack-it.html):
