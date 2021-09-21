@@ -1,5 +1,8 @@
 # Sudoku-Solver
+
 A Sudoku Solver using **Python** that solves any Sudoku puzzles in 2 seconds (95% of the puzzles are solved within 0.5 sec regardless of the difficulty).
+
+<img src="https://github.com/packetsss/Sudoku-Solver/blob/main/sudoku.gif">
 
 Check out my GUI demo video on Youtube: [Click me!](https://www.youtube.com/watch?v=I6yYPYTiE7c)
 
